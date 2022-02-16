@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Presentations
+parent_type: CourseSection
+related_resources_text: "Readings\_([PDF](resources/mit4_696s08_project02_read \"\
+  Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Presentation: Decorative Brickwork'
 uid: dac47426-ce3e-4e5d-3f47-65cbf57cd5be

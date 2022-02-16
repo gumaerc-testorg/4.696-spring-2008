@@ -2,6 +2,18 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Presentations
+parent_type: CourseSection
+related_resources_text: 'Notes ([PDF](resources/mit4_696s08_project03_notes "Open
+  in a new window."))
+
+
+  Slide list and readings ([PDF](resources/mit4_696s08_project03_read "Open in a new
+  window."))'
+resource_index_text: ''
 resourcetype: Video
 title: 'Presentation: Before the Scramble for Africa'
 uid: 7fae0665-1d60-cdfc-d3a6-ff7da65040e6

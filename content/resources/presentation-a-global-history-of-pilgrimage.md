@@ -2,6 +2,17 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Presentations
+parent_type: CourseSection
+related_resources_text: 'Notes ([PDF](resources/mit4_696s08_project05_notes "Open
+  in a new window."))
+
+
+  Handout ([PDF](resources/mit4_696s08_project05_handout "Open in a new window."))'
+resource_index_text: ''
 resourcetype: Video
 title: 'Presentation: A Global History of Pilgrimage'
 uid: 65aacce2-161c-7a57-9c70-68dac8ac5015

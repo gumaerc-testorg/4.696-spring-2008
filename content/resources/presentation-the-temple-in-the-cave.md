@@ -2,6 +2,18 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Presentations
+parent_type: CourseSection
+related_resources_text: 'Notes ([PDF](resources/mit4_696s08_project06_notes "Open
+  in a new window."))
+
+
+  Slide list and readings ([PDF](resources/mit4_696s08_project06_read "Open in a new
+  window."))'
+resource_index_text: ''
 resourcetype: Video
 title: 'Presentation: The Temple in the Cave'
 uid: 20368625-2c47-9866-83e4-d2af33d6f5a7

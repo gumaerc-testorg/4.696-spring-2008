@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Video Presentations
 uid: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
 videos:
