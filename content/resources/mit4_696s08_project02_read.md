@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Presentations
 parent_type: CourseSection
+parent_uid: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
 resourcetype: Document
 title: Decorative Brickwork - Readings
 uid: 43f46224-ad76-deb2-1ed3-cdac1a8df4fd

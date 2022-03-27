@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Presentations
 parent_type: CourseSection
+parent_uid: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
 resourcetype: Document
 title: Before the Scramble for Africa - Notes
 uid: 3b93147a-d3e9-e87b-5c90-152accb65f33

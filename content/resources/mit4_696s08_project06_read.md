@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Presentations
 parent_type: CourseSection
+parent_uid: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
 resourcetype: Document
 title: The Temple in the Cave - Slide List and Readings
 uid: ec655f0c-d97c-5393-5322-b378a6abbd5e

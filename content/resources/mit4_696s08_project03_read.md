@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Presentations
 parent_type: CourseSection
+parent_uid: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
 resourcetype: Document
 title: Before the Scramble for Africa - Slide List and Readings
 uid: b9a6c7e2-3076-8c58-7fff-b2ea6a7e744c

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video Presentations
 parent_type: CourseSection
+parent_uid: 91a6fb4f-bb4a-1d23-2879-9a37fb808eee
 resourcetype: Document
 title: A Global History of Pilgrimage - Handout
 uid: 9ebe6c23-5c7b-e68e-b4ac-8a6fef08405e

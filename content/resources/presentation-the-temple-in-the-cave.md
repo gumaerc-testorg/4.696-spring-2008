@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -15,6 +16,7 @@ related_resources_text: 'Notes ([PDF](resources/mit4_696s08_project06_notes "Ope
   window."))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Presentation: The Temple in the Cave'
 uid: 20368625-2c47-9866-83e4-d2af33d6f5a7
 video_files:
