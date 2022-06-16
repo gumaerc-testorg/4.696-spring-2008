@@ -3,7 +3,7 @@ content_type: resource
 description: Handout accompanying a student final presentation on global port cities
   circa 1300. Contains a list of slides from the presentation, a list of required
   readings, and a list of recommended readings.
-file: /media/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/449bb77347e5408bfec4f357774c6e67_MIT4_696s08_project01_read.pdf
+file: /courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/449bb77347e5408bfec4f357774c6e67_MIT4_696s08_project01_read.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Global Port Cities - Slide List and Readings
 uid: 449bb773-47e5-408b-fec4-f357774c6e67
 ---
+Handout accompanying a student final presentation on global port cities circa 1300. Contains a list of slides from the presentation, a list of required readings, and a list of recommended readings.
+

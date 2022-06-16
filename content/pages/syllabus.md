@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, learning
+  objectives, completion requirements, and the schedule of lecture topics and student
+  presentations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

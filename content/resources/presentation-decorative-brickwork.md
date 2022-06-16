@@ -4,12 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Presentations
 parent_type: CourseSection
-related_resources_text: "Readings\_([PDF](resources/mit4_696s08_project02_read \"\
-  Open in a new window.\"))"
+related_resources_text: "Readings\_([PDF](/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project02_read))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +27,6 @@ video_metadata:
 **Topics covered:** Decorative brickwork: a global history
 
 **Student:** Zameer Basrai
+
+
+

@@ -1,5 +1,9 @@
 ---
 content_type: video_gallery
+description: This section includes videos of the student final presentations, which
+  were designed to be lectures from undergraduate survey courses. The accompanying
+  slide presentations could not be included on MIT OpenCourseWare due to copyright
+  restrictions.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
