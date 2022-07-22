@@ -1,8 +1,22 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Presentations
+parent_type: CourseSection
+related_resources_text: 'Notes ([PDF](/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project06_notes))
+
+
+  Slide list and readings ([PDF](/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project06_read))'
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Presentation: The Temple in the Cave'
 uid: 20368625-2c47-9866-83e4-d2af33d6f5a7
 video_files:
@@ -17,3 +31,4 @@ video_metadata:
 **Topics covered:** The temple in the cave: rock-cut architecture
 
 **Student:** Karin Oen
+

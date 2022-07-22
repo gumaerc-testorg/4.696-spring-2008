@@ -1,8 +1,22 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Presentations
+parent_type: CourseSection
+related_resources_text: 'Notes ([PDF](/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project05_notes))
+
+
+  Handout ([PDF](/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project05_handout))'
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Presentation: A Global History of Pilgrimage'
 uid: 65aacce2-161c-7a57-9c70-68dac8ac5015
 video_files:
@@ -17,3 +31,4 @@ video_metadata:
 **Topics covered:** A global history of pilgrimage: an introduction
 
 **Student:** Christian Hedrick
+

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Presentations
+parent_type: CourseSection
+related_resources_text: "Readings\_([PDF](/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/resources/mit4_696s08_project02_read))"
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Presentation: Decorative Brickwork'
 uid: dac47426-ce3e-4e5d-3f47-65cbf57cd5be
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Topics covered:** Decorative brickwork: a global history
 
 **Student:** Zameer Basrai
+

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, learning
+  objectives, completion requirements, and the schedule of lecture topics and student
+  presentations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4945c394-dca5-d3d7-e81e-e9e7a99e5ae5
 ---
