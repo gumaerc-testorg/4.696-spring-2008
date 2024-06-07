@@ -3,6 +3,7 @@ content_type: resource
 description: Handout accompanying a student final presentation on tracing African
   architecture through trade. Contains a list of slides and a list of required readings.
 file: /courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/b9a6c7e230768c587fffb2ea6a7e744c_MIT4_696s08_project03_read.pdf
+file_size: 89426
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
