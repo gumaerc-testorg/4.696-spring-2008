@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout accompanying a student final presentation on the global history
   of pilgrimage.
-file: /ol-ocw-studio-app/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/9ebe6c235c7be68eb4ac8a6fef08405e_MIT4_696s08_project05_handout.pdf
+file: /courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/9ebe6c235c7be68eb4ac8a6fef08405e_MIT4_696s08_project05_handout.pdf
 file_size: 213381
 file_type: application/pdf
 learning_resource_types: []
