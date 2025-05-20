@@ -2,7 +2,7 @@
 content_type: resource
 description: Notes accompanying a student final presentation on global port cities
   circa 1300.
-file: /ol-ocw-studio-app/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/b5e7d2591d88461446372cd5a7a674b6_MIT4_696s08_project01_notes.pdf
+file: /courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/b5e7d2591d88461446372cd5a7a674b6_MIT4_696s08_project01_notes.pdf
 file_size: 232335
 file_type: application/pdf
 learning_resource_types: []
