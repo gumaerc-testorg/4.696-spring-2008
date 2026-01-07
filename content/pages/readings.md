@@ -29,7 +29,7 @@ Conceptualizing "the global"
 
 Mazlish, Bruce, and Ralph Buultjens, eds. *Conceptualizing Global History*. Boulder, CO: Westview Press, 1993. ISBN: 9780974369235.
 
-Mazlish, Bruce. "{{% resource_link "991f95fb-a34c-4f22-8a60-7e20527eb952" "The New Global History" %}}."
+Mazlish, Bruce. "[The New Global History](https://web.archive.org/web/20080316143613/http://web.mit.edu/newglobalhistory/articles.html)."
 
 Gills, Barry, and William Thompson, eds. *Globalization and Global History*. New York, NY: Routledge, 2006, chapters 1-2. ISBN: 9780415701365.
 
